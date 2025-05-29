@@ -1,0 +1,5 @@
+train: C:/Users/hyunj/Downloads/deep_test/dataset/images/train
+val: C:/Users/hyunj/Downloads/deep_test/dataset/images/val
+nc: 1
+names:
+- crack
